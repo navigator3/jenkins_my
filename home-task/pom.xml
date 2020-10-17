@@ -4,6 +4,7 @@
     <groupId>com.mtn.training</groupId>
     <artifactId>ci-1</artifactId>
     <version>1.0</version>
+    <build>
     <plugins>
       <plugin>
         <!-- Build an executable JAR -->
@@ -21,6 +22,7 @@
         </configuration>
       </plugin>
     </plugins>
+  </build>
     <dependencies>
       <dependency>
           <groupId>org.apache.commons</groupId>
