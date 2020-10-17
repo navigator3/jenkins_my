@@ -4,4 +4,10 @@
     <groupId>com.mtn.training</groupId>
     <artifactId>ci-1</artifactId>
     <version>1.0</version>
+
+    <dependency>
+        <groupId>commons-collections</groupId>
+        <artifactId>commons-collections</artifactId>
+        <version>3.0</version>
+    </dependency>
 </project>
